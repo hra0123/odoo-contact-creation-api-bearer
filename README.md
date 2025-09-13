@@ -18,7 +18,7 @@ It validates input, prevents duplicates, and returns structured JSON responses.
 ## 📦 Installation
 1. Clone this repository into your Odoo addons path:
    ```bash
-   git clone https://github.com/<your-username>/odoo-contact-api.git
+   git clone https://github.com/hra0123/odoo-contact-creation-api-bearer.git
    ```
 2. Restart your Odoo service.
 3. Activate developer mode in Odoo.
